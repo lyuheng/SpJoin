@@ -10,7 +10,6 @@
 *.o
 *.lo
 *.la
-*.txt
 .idea
 .vscode
 CMakeLists.txt.user
