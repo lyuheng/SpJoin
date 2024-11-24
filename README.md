@@ -1,9 +1,15 @@
 # Parallel out-of-core spatial join processing
 
 ## How to Compile
-Make sure MPI and CMake are installed in your environment.
 
-You might need to configure the NUMA library in the CMakeList.txt.
+### Dependencies
+<ul>
+<li> MPI </li> 
+<li> NUMA </li>
+<li> CMake </li>
+</ul>
+
+You might need to manually configure the NUMA library in the CMakeList.txt.
 ```
 cmake -B build
 cmake --build build 
