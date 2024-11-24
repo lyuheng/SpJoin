@@ -13,7 +13,6 @@
 *.txt
 .idea
 .vscode
-*gen_data*
 CMakeLists.txt.user
 CMakeFiles/
 CMakeCache.txt
