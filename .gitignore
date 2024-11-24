@@ -21,4 +21,4 @@ docs/build
 install_manifest.txt
 docs/doxygen/html*/
 docs/doxygen/xml
-
+build
